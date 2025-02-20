@@ -16,8 +16,7 @@ This project focuses on speech recognition for detecting specific keyboard input
 
 ### 🔹 Sample Visualizations  
 #### MFCC Feature Distribution  
-Example of MFCC feature distribution for a specific key:  
-![MFCC Distribution](mfcc_distribution_all_slovo D.png)  
+Example of MFCC feature distribution for a specific key. 
 
 #### Confusion Matrix  
 Illustrates model classification performance:  
